@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1240" viewBox="0 0 1080 1240" role="img" aria-labelledby="t d">
+  <title id="t">Omar Abu-Ella profile placeholder</title><desc id="d">Academic monogram placeholder ready to be replaced by an official portrait.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b2545"/><stop offset="1" stop-color="#153f68"/></linearGradient><radialGradient id="r"><stop stop-color="#c6a86b" stop-opacity=".28"/><stop offset="1" stop-color="#c6a86b" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1080" height="1240" rx="72" fill="url(#g)"/>
+  <circle cx="170" cy="220" r="320" fill="url(#r)"/><circle cx="980" cy="1110" r="420" fill="url(#r)"/>
+  <path d="M90 210h900M90 1030h900" stroke="#fff" stroke-opacity=".08"/>
+  <g fill="none" stroke="#d9c28a" stroke-opacity=".45"><circle cx="540" cy="565" r="260"/><circle cx="540" cy="565" r="220" stroke-dasharray="8 18"/></g>
+  <text x="540" y="625" text-anchor="middle" fill="#fff" font-size="180" font-family="Georgia,serif" font-weight="700">OA</text>
+  <text x="540" y="795" text-anchor="middle" fill="#d9c28a" font-size="36" font-family="Arial,sans-serif" letter-spacing="8">PROFESSOR</text>
+  <text x="540" y="855" text-anchor="middle" fill="#fff" fill-opacity=".82" font-size="28" font-family="Arial,sans-serif">Official portrait can replace this image</text>
+</svg>
