@@ -14,7 +14,7 @@ Then open `http://localhost:8080`.
 
 ## Before public launch
 
-1. Replace `assets/profile-placeholder.svg` with the official portrait. Keep the same filename or update the image path in `index.html`.
+1. The official portrait is provided as `assets/profile-photo.svg`, backed by the optimized photographic source `assets/profile-photo.jpg`.
 2. The canonical URL, language alternates, robots file, and sitemap use the public URL `https://omarabuella.github.io/`.
 3. Update the citation figure only from the verified Google Scholar profile. The current interface deliberately links to the live Scholar profile instead of freezing an unverified count.
 4. Verify the Scopus and Web of Science author IDs. The current buttons intentionally open author-search pages because stable author identifiers were not present in the supplied CV.

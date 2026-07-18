@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 540 620" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait of Professor Omar Abu-Ella</title>
+  <desc id="desc">Professional head-and-shoulders portrait of Professor Omar Abu-Ella on a light background.</desc>
+  <defs>
+    <clipPath id="portrait-frame">
+      <rect width="540" height="620" rx="28" ry="28"/>
+    </clipPath>
+  </defs>
+  <rect width="540" height="620" rx="28" ry="28" fill="#f3f7fa"/>
+  <image x="0" y="0" width="540" height="620"
+         href="profile-photo.jpg" xlink:href="profile-photo.jpg"
+         preserveAspectRatio="xMidYMid slice"
+         clip-path="url(#portrait-frame)"/>
+</svg>
