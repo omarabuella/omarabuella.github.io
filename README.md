@@ -15,7 +15,7 @@ Then open `http://localhost:8080`.
 ## Before public launch
 
 1. Replace `assets/profile-placeholder.svg` with the official portrait. Keep the same filename or update the image path in `index.html`.
-2. Replace every `https://YOUR-DOMAIN.example/` occurrence in `index.html`, `robots.txt`, and `sitemap.xml` with the final public URL.
+2. The canonical URL, language alternates, robots file, and sitemap use the public URL `https://omarabuella.github.io/`.
 3. Update the citation figure only from the verified Google Scholar profile. The current interface deliberately links to the live Scholar profile instead of freezing an unverified count.
 4. Verify the Scopus and Web of Science author IDs. The current buttons intentionally open author-search pages because stable author identifiers were not present in the supplied CV.
 5. Add student names, degree status, thesis repository links, project funding, partners, and teaching-material downloads when those data are supplied. The CV lists topics but does not provide these details.
@@ -32,7 +32,7 @@ Then open `http://localhost:8080`.
 
 1. Create a public repository and upload the contents of this folder to its root.
 2. In **Settings → Pages**, choose **Deploy from a branch**, then select `main` and `/ (root)`.
-3. Add the published URL to the canonical and sitemap entries described above.
+3. Keep the canonical and sitemap entries synchronized if the site later moves to a custom domain.
 4. If using a custom domain, add a `CNAME` file containing only the domain name and configure DNS with the domain provider.
 
 ## Included quality features
@@ -41,7 +41,7 @@ Then open `http://localhost:8080`.
 - Responsive navigation and layouts for mobile, tablet, and desktop
 - Dark mode, reduced-motion support, keyboard skip link, accessible labels
 - Searchable/filterable complete publication list
-- Person JSON-LD, Open Graph metadata, sitemap, robots file, and canonical placeholders
+- Person JSON-LD, Open Graph metadata, sitemap, robots file, and canonical URL
 - No web fonts, trackers, external scripts, or large framework bundles
 - Print-friendly CSS and downloadable CV
 
