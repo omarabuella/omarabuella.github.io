@@ -8,7 +8,7 @@
   </defs>
   <rect width="540" height="620" rx="28" ry="28" fill="#f3f7fa"/>
   <image x="0" y="0" width="540" height="620"
-         href="profile-photo.jpg" xlink:href="profile-photo.jpg"
+         href="omar-abu-ella-portrait.jpg" xlink:href="omar-abu-ella-portrait.jpg"
          preserveAspectRatio="xMidYMid slice"
          clip-path="url(#portrait-frame)"/>
 </svg>
